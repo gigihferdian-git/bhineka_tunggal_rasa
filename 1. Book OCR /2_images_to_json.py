@@ -11,8 +11,8 @@ from google.genai import types
 API_KEY = "[ENCRYPTION_KEY]"  # Paste your key here
 
 # PAGE RANGE
-START_PAGE = 824
-END_PAGE = 1187
+START_PAGE = 187
+END_PAGE = 1164
 
 # --- PATH SETUP ---
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
