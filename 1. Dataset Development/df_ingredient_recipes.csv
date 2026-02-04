@@ -225,7 +225,7 @@ ING_000223,MR_209_01,utama,kol putih,kol putih,1.0,ons
 ING_000224,MR_209_01,utama,susu,susu,0.5,gelas
 ING_000225,MR_209_01,bumbu,lada,lada,0.5,sendok teh
 ING_000226,MR_209_01,bumbu,garam,garam,1.0,sendok teh
-ING_000227,MR_209_02,utama,Djagung pipilan,Jagung pipilan,,
+ING_000227,MR_209_02,utama,djagung pipilan,Jagung pipilan,,
 ING_000228,MR_209_02,utama,kapur,kapur,,
 ING_000229,MR_209_02,utama,air,air,,
 ING_000230,MR_209_02,utama,daging sapi,daging sapi,,
@@ -239,7 +239,7 @@ ING_000237,MR_210_02,utama,air,air,5.0,gelas
 ING_000238,MR_210_02,bumbu,sereh,serai,1.0,batang
 ING_000239,MR_210_02,bumbu,garam,garam,1.0,sendok teh
 ING_000240,MR_210_02,bumbu,kemangi,kemangi,1.0,ikat
-ING_000241,MR_211_01,utama,Tepung gaplek,Tepung gaplek,,secukupnya
+ING_000241,MR_211_01,utama,tepung gaplek,Tepung gaplek,,secukupnya
 ING_000242,MR_211_02,utama,tepung djagung,tepung jagung,4.0,gelas
 ING_000243,MR_211_02,utama,air,air,,secukupnya
 ING_000244,MR_211_02,utama,kapur sirih,kapur sirih,,sebesar butiran jagung
@@ -539,7 +539,7 @@ ING_000537,MR_229_01,bumbu,kunjit,kunyit,1.0,ruas jari
 ING_000538,MR_229_01,bumbu,sereh,serai,1.0,batang
 ING_000539,MR_229_01,bumbu,garam,garam,1.0,sendok makan
 ING_000540,MR_229_01,bumbu,terasi,terasi,1.0,sendok teh
-ING_000541,MR_229_01,utama,Labu,Labu,,
+ING_000541,MR_229_01,utama,labu,Labu,,
 ING_000542,MR_229_01,utama,santan,santan,5.0,gelas
 ING_000543,MR_229_02,utama,ajam,ayam,1.0,ekor
 ING_000544,MR_229_02,utama,minjak goreng,minyak goreng,2.0,sendok makan
@@ -765,7 +765,7 @@ ING_000763,MR_241_01,Bumbu,djae,jahe,1.0,potong
 ING_000764,MR_241_01,Bumbu,asam,asam jawa,0.5,sendok makan
 ING_000765,MR_241_01,Bumbu,tomat,tomat,2.0,buah
 ING_000766,MR_241_01,Bumbu,garam,garam,2.0,sendok makan
-ING_000767,MR_241_01,Utama (Inferred from Instructions),Daging,daging,,secukupnya
+ING_000767,MR_241_01,Utama (Inferred from Instructions),daging,daging,,secukupnya
 ING_000768,MR_241_01,Utama (Inferred from Instructions),kentang,kentang,,secukupnya
 ING_000769,MR_241_01,Utama (Inferred from Instructions),mentega,mentega,,secukupnya
 ING_000770,MR_241_01,Utama (Inferred from Instructions),santan kental,santan kental,,secukupnya
@@ -1057,7 +1057,7 @@ ING_001055,MR_258_01,bumbu,daun kunjit,daun kunyit,1.0,helai
 ING_001056,MR_258_01,bumbu,daun djeruk purut,daun jeruk purut,2.0,helai
 ING_001057,MR_258_01,bumbu,sereh,serai,2.0,batang
 ING_001058,MR_258_01,bumbu,garam,garam,3.0,sendok makan
-ING_001059,MR_259_01,utama,Ajam Gemuk,Ayam,1,ekor
+ING_001059,MR_259_01,utama,ajam gemuk,Ayam,1,ekor
 ING_001060,MR_259_01,utama,kelapa,kelapa,1.5,butir
 ING_001061,MR_259_01,bumbu,bawang merah,bawang merah,0.5,ons
 ING_001062,MR_259_01,bumbu,sereh,serai,2.0,batang
@@ -1377,7 +1377,7 @@ ING_001375,MR_274_01,utama,rebung,rebung,1.5,kilogram
 ING_001376,MR_274_01,utama,tempe bosok,tempe busuk,2.0,potong
 ING_001377,MR_274_01,utama,daun melindjo,daun melinjo,1.0,ons
 ING_001378,MR_274_01,utama,kelapa,kelapa,0.5,butir
-ING_001379,MR_274_01,utama,Rebung,rebung,,
+ING_001379,MR_274_01,utama,rebung,rebung,,
 ING_001380,MR_274_01,bumbu,bawang merah,bawang merah,5.0,buah
 ING_001381,MR_274_01,bumbu,bawang putih,bawang putih,3.0,siung
 ING_001382,MR_274_01,bumbu,lombok merah,cabai merah,3.0,buah
@@ -1417,9 +1417,9 @@ ING_001415,MR_275_01,bumbu,salam,daun salam,2.0,lembar
 ING_001416,MR_275_02,utama,bebek,bebek,1.0,ekor
 ING_001417,MR_275_02,utama,kelapa,kelapa,1.5,butir
 ING_001418,MR_275_02,utama,minjak goreng,minyak goreng,2.0,sendok makan
-ING_001419,MR_276_01,utama,Bebek,bebek,1.0,ekor
+ING_001419,MR_276_01,utama,bebek,bebek,1.0,ekor
 ING_001420,MR_276_01,utama,santan,santan,0.5,liter
-ING_001421,MR_276_01,utama,Air,air,1.0,cangkir
+ING_001421,MR_276_01,utama,air,air,1.0,cangkir
 ING_001422,MR_276_01,bumbu,bawang merah,bawang merah,10.0,buah
 ING_001423,MR_276_01,bumbu,bawang putih,bawang putih,5.0,siung
 ING_001424,MR_276_01,bumbu,lombok rawit,cabai rawit,10.0,buah
@@ -1430,7 +1430,7 @@ ING_001428,MR_276_01,bumbu,daun salam,daun salam,4.0,lembar
 ING_001429,MR_276_01,bumbu,daun djeruk purut,daun jeruk purut,4.0,lembar
 ING_001430,MR_276_01,bumbu,terasi,terasi,1.0,sendok teh
 ING_001431,MR_276_01,bumbu,garam,garam,2.0,sendok makan
-ING_001432,MR_276_02,bahan_utama,Ikan kakap atau tongkol,ikan kakap atau tongkol,1.0,kilogram
+ING_001432,MR_276_02,bahan_utama,ikan kakap atau tongkol,ikan kakap atau tongkol,1.0,kilogram
 ING_001433,MR_276_02,bahan_utama,minjak kelapa,minyak kelapa,1.0,gelas
 ING_001434,MR_276_02,bahan_utama,kelapa,kelapa,1.0,butir
 ING_001435,MR_276_02,bumbu,bawang merah,bawang merah,5.0,buah
@@ -1817,7 +1817,7 @@ ING_001815,MR_296_03,bumbu,daun kemangi,daun kemangi,1.0,ikat
 ING_001816,MR_296_03,bumbu,asam,asam,2.0,mata
 ING_001817,MR_296_03,bumbu,garam,garam,1.0,sendok makan
 ING_001818,MR_296_03,bumbu,terasi,terasi,1.0,sendok teh
-ING_001819,MR_296_03,utama,Buah kelor,buah kelor,,
+ING_001819,MR_296_03,utama,buah kelor,buah kelor,,
 ING_001820,MR_296_03,utama,santan kental,santan kental,,
 ING_001821,MR_297_02,utama,kangkung,kangkung,2.0,ikat
 ING_001822,MR_297_02,utama,daun katjang pandjang,daun kacang panjang,2.0,ikat
@@ -2746,10 +2746,10 @@ ING_002744,MR_347_02,bumbu,seledri iris,seledri iris,1.0,sendok makan
 ING_002745,MR_347_02,bumbu,prei diiris,prei diiris,1.0,sendok makan
 ING_002746,MR_347_02,bumbu,lada,lada,4.0,sendok teh
 ING_002747,MR_347_02,bumbu,garam,garam,2.0,sendok teh
-ING_002748,MR_347_02,utama (inferred from instructions),Ajam,Ayam,,
+ING_002748,MR_347_02,utama (inferred from instructions),ajam,Ayam,,
 ING_002749,MR_347_02,utama (inferred from instructions),air,air,6.0,cup
 ING_002750,MR_347_02,utama (inferred from instructions),garam,garam,1.0,tsp
-ING_002751,MR_347_02,utama (inferred from instructions),Djagung,jagung,,
+ING_002751,MR_347_02,utama (inferred from instructions),djagung,jagung,,
 ING_002752,MR_347_02,utama (inferred from instructions),wortel,wortel,,
 ING_002753,MR_347_02,utama (inferred from instructions),lada,lada,,
 ING_002754,MR_347_02,utama (inferred from instructions),prei,prei,,
@@ -2857,9 +2857,9 @@ ING_002855,MR_354_01,utama,tepung terigu,tepung terigu,4.0,sendok makan
 ING_002856,MR_354_01,utama,mentega,mentega,4.0,sendok makan
 ING_002857,MR_354_01,bumbu,bawang merah,bawang merah,2.0,buah
 ING_002858,MR_354_01,bumbu,bumbu kare,bumbu kari,0.25,sendok makan
-ING_002859,MR_354_01,pelengkap,Roti goreng dipotong ketjil-ketjil.,Roti goreng kecil,,
-ING_002860,MR_354_01,pelengkap,Telur direbus jang keras.,Telur rebus keras,,
-ING_002861,MR_354_01,pelengkap,Daging rebus dipotong sebesar dadu.,Daging rebus potong dadu,,
+ING_002859,MR_354_01,pelengkap,roti goreng dipotong ketjil-ketjil.,Roti goreng kecil,,
+ING_002860,MR_354_01,pelengkap,telur direbus jang keras.,Telur rebus keras,,
+ING_002861,MR_354_01,pelengkap,daging rebus dipotong sebesar dadu.,Daging rebus potong dadu,,
 ING_002862,MR_354_02,utama,katjang hidjau,kacang hijau,0.25,kilogram
 ING_002863,MR_354_02,utama,daging,daging,0.25,kilogram
 ING_002864,MR_354_02,utama,kentang,kentang,0.25,kilogram
@@ -3163,7 +3163,7 @@ ING_003161,MR_374_01,bumbu_pelengkap,kaju manis,kayu manis,1.0,potong
 ING_003162,MR_374_01,bumbu_pelengkap,mentega,mentega,2.0,sendok makan
 ING_003163,MR_374_01,bumbu_pelengkap,gula merah,gula merah,1.0,sendok teh
 ING_003164,MR_374_01,bumbu_pelengkap,garam,garam,1.0,sendok makan
-ING_003165,MR_374_01,bahan_instruksi_tambahan,Terasi,terasi,,
+ING_003165,MR_374_01,bahan_instruksi_tambahan,terasi,terasi,,
 ING_003166,MR_374_01,bahan_instruksi_tambahan,asem,asam,,
 ING_003167,MR_374_01,bahan_instruksi_tambahan,kaldu,kaldu,,
 ING_003168,MR_374_01,bahan_instruksi_tambahan,santan lainnja,santan lainnya,,
@@ -4168,7 +4168,7 @@ ING_004166,MR_431_01,bumbu,gula merah,gula merah,1.5,sendok makan
 ING_004167,MR_431_01,bumbu,garam,garam,1.0,sendok makan
 ING_004168,MR_431_02,utama,ajam,ayam,1.0,ekor
 ING_004169,MR_431_02,utama,kelapa,kelapa,2.0,butir
-ING_004170,MR_431_02,utama (inferred),Ajam,ayam,,
+ING_004170,MR_431_02,utama (inferred),ajam,ayam,,
 ING_004171,MR_431_02,utama (inferred),santan kental,santan kental,0.75,liter
 ING_004172,MR_431_02,bumbu,lada,lada,5.0,gram
 ING_004173,MR_431_02,bumbu,bawang putih,bawang putih,1.0,siung
@@ -4745,7 +4745,7 @@ ING_004743,MR_466_02,Bahan Utama,udang,udang,0.5,ons
 ING_004744,MR_466_02,Bumbu,lada,lada,0.5,sendok teh
 ING_004745,MR_466_02,Bumbu,garam,garam,1.0,sendok makan
 ING_004746,MR_466_02,Bumbu,air djeruk nipis,air jeruk nipis,2.0,sendok makan
-ING_004747,MR_467_01,utama,Ikan laut jang ketjil,Ikan laut yang kecil,1.0,kilogram
+ING_004747,MR_467_01,utama,ikan laut jang ketjil,Ikan laut yang kecil,1.0,kilogram
 ING_004748,MR_467_01,bumbu,laos,lengkuas,1.0,iris
 ING_004749,MR_467_01,bumbu,kunjit,kunyit,3.0,iris
 ING_004750,MR_467_01,bumbu,tjuka,cuka,3.0,sendok makan
@@ -5663,10 +5663,10 @@ ING_005661,MR_522_02,utama,udang,udang,1.0,ons
 ING_005662,MR_522_02,utama,tempe bosok,tempe busuk,1.0,bungkus
 ING_005663,MR_522_02,utama,minjak goreng,minyak goreng,0.5,gelas
 ING_005664,MR_522_02,utama,petai,petai,1.0,lonjor
-ING_005665,MR_522_02,utama,Daun pakis,Daun pakis,,
-ING_005666,MR_522_02,utama,Udang,Udang,,
+ING_005665,MR_522_02,utama,daun pakis,Daun pakis,,
+ING_005666,MR_522_02,utama,udang,Udang,,
 ING_005667,MR_522_02,utama,ketjambah,kecambah,,
-ING_005668,MR_522_02,utama,Tempe bosok,Tempe busuk,,
+ING_005668,MR_522_02,utama,tempe bosok,Tempe busuk,,
 ING_005669,MR_522_02,Bumbu,bawang merah,bawang merah,5.0,buah
 ING_005670,MR_522_02,Bumbu,bawang putih,bawang putih,2.0,siung
 ING_005671,MR_522_02,Bumbu,lombok merah,cabai merah,10.0,buah
@@ -7538,13 +7538,13 @@ ING_007536,MR_637_01,bumbu,sereh,serai,1.0,batang
 ING_007537,MR_637_01,bumbu,gula merah,gula merah,0.5,sendok makan
 ING_007538,MR_637_01,bumbu,tempe bosok,tempe busuk,1.0,potong
 ING_007539,MR_637_01,bumbu,garam,garam,0.5,sendok makan
-ING_007540,MR_637_01,bahan_utama_dari_instruksi,Tempe,tempe,0.0,
+ING_007540,MR_637_01,bahan_utama_dari_instruksi,tempe,tempe,0.0,
 ING_007541,MR_637_01,bahan_utama_dari_instruksi,udang,udang,0.0,
 ING_007542,MR_637_01,bahan_utama_dari_instruksi,petai,petai,0.0,
 ING_007543,MR_637_01,bahan_utama_dari_instruksi,air,air,2.0,gelas
 ING_007544,MR_637_01,bahan_utama_dari_instruksi,kelapa diparut,kelapa parut,0.0,
-ING_007545,MR_637_01,bahan_utama_dari_instruksi,Bajam,bayam,0.0,
-ING_007546,MR_637_01,bahan_utama_dari_instruksi,Ketjambah,kecambah,0.0,
+ING_007545,MR_637_01,bahan_utama_dari_instruksi,bajam,bayam,0.0,
+ING_007546,MR_637_01,bahan_utama_dari_instruksi,ketjambah,kecambah,0.0,
 ING_007547,MR_637_02,bahan_utama,terong jang besar,terong yang besar,3.0,buah
 ING_007548,MR_637_02,bahan_utama,ketimun,timun,3.0,buah
 ING_007549,MR_637_02,bahan_utama,taoge,tauge,0.5,kilogram
@@ -9030,7 +9030,7 @@ ING_009028,MR_738_02,bumbu,bawang merah,bawang merah,15.0,buah
 ING_009029,MR_738_02,bumbu,laos,lengkuas,4.0,iris
 ING_009030,MR_738_02,bumbu,sereh,serai,3.0,batang
 ING_009031,MR_738_02,bumbu,lombok rawit,cabai rawit,-1.0,sesuai selera
-ING_009032,MR_739_01,utama,"Ikan (lele, mas, tawes)","Ikan (lele, mas, tawes)",1.0,kilogram
+ING_009032,MR_739_01,utama,"ikan (lele, mas, tawes)","Ikan (lele, mas, tawes)",1.0,kilogram
 ING_009033,MR_739_01,bumbu,bawang merah,bawang merah,10.0,biji
 ING_009034,MR_739_01,bumbu,kemiri,kemiri,10.0,biji
 ING_009035,MR_739_01,bumbu,djeruk sundai (sitroen),jeruk sundai (sitrun),3.0,biji
@@ -9054,8 +9054,8 @@ ING_009052,MR_740_01,Bumbu,daun ruku²,daun ruku,3.0,lembar
 ING_009053,MR_740_01,Bumbu,daun mangkok,daun mangkok,3.0,lembar
 ING_009054,MR_740_01,Bumbu,daun salam,daun salam,2.0,lembar
 ING_009055,MR_740_01,Bumbu,garam,garam,2.0,sendok makan
-ING_009056,MR_740_01,Bahan Utama (Inferred),Teri,Teri,,
-ING_009057,MR_740_01,Bahan Utama (Inferred),Kelapa,Kelapa,,
+ING_009056,MR_740_01,Bahan Utama (Inferred),teri,Teri,,
+ING_009057,MR_740_01,Bahan Utama (Inferred),kelapa,Kelapa,,
 ING_009058,MR_740_01,Bahan Utama (Inferred),sereh,serai,,
 ING_009059,MR_740_01,Bahan Utama (Inferred),daun pisang,daun pisang,,
 ING_009060,MR_740_02,Bahan,bandeng jang besar,bandeng yang besar,1.0,ekor
@@ -10806,10 +10806,10 @@ ING_010804,MR_883_01,Bumbu Saos,tongtjai,tongcai,1.0,sendok makan
 ING_010805,MR_883_01,Bumbu Saos,tjuka,cuka,2.0,sendok makan
 ING_010806,MR_883_01,Bumbu Saos,garam,garam,2.0,sendok teh
 ING_010807,MR_883_01,Bumbu Saos,gula merah,gula merah,1.0,sendok makan
-ING_010808,MR_883_01,Bahan Utama (Inferred),Ikan halus,ikan giling,,
+ING_010808,MR_883_01,Bahan Utama (Inferred),ikan halus,ikan giling,,
 ING_010809,MR_883_01,Bahan Utama (Inferred),sagu,sagu,,
 ING_010810,MR_883_01,Bahan Utama (Inferred),air garam,air garam,,
-ING_010811,MR_883_01,Bahan Utama (Inferred),Telur,telur,,
+ING_010811,MR_883_01,Bahan Utama (Inferred),telur,telur,,
 ING_010812,MR_883_01,Saos Tambahan (Inferred),air panas,air panas,2.0,gelas
 ING_010813,MR_883_01,Saos Tambahan (Inferred),ketjap,kecap,,sedikit
 ING_010814,MR_883_02,Bahan Utama,"ikan jang telah dihaluskan (gabus, belida, tenggiri)","ikan giling (gabus, belida, tenggiri)",1.0,mangkok
@@ -12231,7 +12231,7 @@ ING_012229,MR_1013_03,utama,gula merah,gula merah,1.0,gelas
 ING_012230,MR_1013_03,utama,santan kental,santan kental,0.5,gelas
 ING_012231,MR_1013_03,utama,daun pisang,daun pisang,,secukupnya
 ING_012232,MR_1014_01,bumbu,garam,garam,0.5,sendok teh
-ING_012233,MR_1014_01,bahan lain (diekstrak dari instruksi),Tepung djagung,Tepung jagung,,
+ING_012233,MR_1014_01,bahan lain (diekstrak dari instruksi),tepung djagung,Tepung jagung,,
 ING_012234,MR_1014_01,bahan lain (diekstrak dari instruksi),parutan kelapa,parutan kelapa,,
 ING_012235,MR_1014_01,bahan lain (diekstrak dari instruksi),gula merah,gula merah,,
 ING_012236,MR_1014_01,bahan lain (diekstrak dari instruksi),santan,santan,,
@@ -12441,7 +12441,7 @@ ING_012439,MR_1035_01,bumbu,daun bawang,daun bawang,8.0,lembar
 ING_012440,MR_1035_01,bumbu,tjuka,cuka,2.0,sendok makan
 ING_012441,MR_1035_01,bumbu,ketjap,kecap,2.0,sendok makan
 ING_012442,MR_1035_01,bumbu,air kaldu,air kaldu,2.0,gelas
-ING_012443,MR_1036_01,utama,Padi sisa jang ketinggalan diladang,Padi muda (gabah),1.0,kilogram
+ING_012443,MR_1036_01,utama,padi sisa jang ketinggalan diladang,Padi muda (gabah),1.0,kilogram
 ING_012444,MR_1036_01,pemanis,gula aren,gula aren,2.0,ons
 ING_012445,MR_1036_02,utama,tepung beras,tepung beras,0.25,kilogram
 ING_012446,MR_1036_02,utama,pisang radja,pisang raja,6.0,buah
@@ -12621,7 +12621,7 @@ ING_012619,MR_1053_01,bumbu dan isian,bawang putih,bawang putih,4.0,siung
 ING_012620,MR_1053_01,bumbu dan isian,lada,lada,0.5,sendok teh
 ING_012621,MR_1053_01,bumbu dan isian,garam,garam,1.0,sendok teh
 ING_012622,MR_1053_01,bumbu dan isian,gula,gula,1.0,sendok teh
-ING_012623,MR_1053_01,bumbu dan isian,Pepaja,Pepaya,,
+ING_012623,MR_1053_01,bumbu dan isian,pepaja,Pepaya,,
 ING_012624,MR_1053_02,utama,singkong,singkong,1.0,kilogram
 ING_012625,MR_1053_02,utama,abon,abon,2.0,ons
 ING_012626,MR_1053_02,utama,garam,garam,0.5,sendok teh
@@ -12795,11 +12795,11 @@ ING_012793,MR_1069_02,utama,gula pasir,gula pasir,1.0,gelas
 ING_012794,MR_1070_01,bumbu,pala halus,pala halus,0.25,sendok teh
 ING_012795,MR_1070_01,bumbu,daun pandan,daun pandan,2.0,lembar
 ING_012796,MR_1070_01,bumbu,garam,garam,0.5,sendok makan
-ING_012797,MR_1070_01,bahan_lanjutan,Ketan,Ketan,,
+ING_012797,MR_1070_01,bahan_lanjutan,ketan,Ketan,,
 ING_012798,MR_1070_01,bahan_lanjutan,air daun pandan,air daun pandan,,
-ING_012799,MR_1070_01,bahan_lanjutan,Kelapa muda diparut,Kelapa muda parut,,
+ING_012799,MR_1070_01,bahan_lanjutan,kelapa muda diparut,Kelapa muda parut,,
 ING_012800,MR_1070_01,bahan_lanjutan,gula pasir,gula pasir,,
-ING_012801,MR_1070_01,bahan_lanjutan,Kelapa diparut,Kelapa parut,6.0,gelas
+ING_012801,MR_1070_01,bahan_lanjutan,kelapa diparut,Kelapa parut,6.0,gelas
 ING_012802,MR_1070_02,utama,djagung pipilan,jagung pipilan,1.0,gelas
 ING_012803,MR_1070_02,utama,bawang merah,bawang merah,5.0,siung
 ING_012804,MR_1070_02,utama,djeruk sitrun,jeruk sitrun,5.0,buah
@@ -12899,7 +12899,7 @@ ING_012897,MR_1078_02,utama,tepung terigu,tepung terigu,1.0,kilogram
 ING_012898,MR_1078_02,utama,daging,daging,0.5,kilogram
 ING_012899,MR_1078_02,utama,telur,telur,10.0,buah
 ING_012900,MR_1078_02,utama,paneermeel,tepung panir,,secukupnya
-ING_012901,MR_1078_02,utama,minjak Barco,minyak Barco,0.5,botol
+ING_012901,MR_1078_02,utama,minjak barco,minyak Barco,0.5,botol
 ING_012902,MR_1078_02,utama,wortel,wortel,1.0,ons
 ING_012903,MR_1078_02,bumbu,kapri,kacang kapri,1.0,ons
 ING_012904,MR_1078_02,bumbu,brambang,bawang merah,10.0,buah
@@ -13812,8 +13812,8 @@ ING_013810,MR_1163_02,utama,gula pasir,gula pasir,2.0,sendok makan
 ING_013811,MR_1163_03,utama,kelapa,kelapa,1.0,butir
 ING_013812,MR_1163_03,utama,kelapa muda,kelapa muda,0.5,butir
 ING_013813,MR_1163_03,utama,gula merah,gula merah,5.0,ons
-ING_013814,MR_1163_03,utama,Kelapa,Kelapa,,
+ING_013814,MR_1163_03,utama,kelapa,Kelapa,,
 ING_013815,MR_1163_03,utama,santan tjair,santan cair,3.0,gelas
 ING_013816,MR_1163_03,utama,santan kental,santan kental,1.0,gelas
-ING_013817,MR_1163_03,utama,Kelapa muda,Kelapa muda,,
+ING_013817,MR_1163_03,utama,kelapa muda,Kelapa muda,,
 ING_013818,MR_1163_03,utama,gula,gula,,
